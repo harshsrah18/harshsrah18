@@ -39,11 +39,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
-## 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsrah18&layout=compact&theme=tokyonight"/>
-</p>
 ## 🎯 Current Focus
 
 ```yaml
