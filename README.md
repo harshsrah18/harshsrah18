@@ -8,8 +8,75 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
 </p>
-## 📈 Contribution Graph
+
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsrah18&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsrah18&layout=compact&theme=tokyonight"/>
+</p>
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced React
+  - Node.js
+  - MongoDB
+
+Building:
+  - MERN Projects
+  - Portfolio
+
+Exploring:
+  - Next.js
+  - Docker
+
+Open To:
+  - Internship
+  - Open Source
+```
+
+## 🌐 Socials
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshsrah18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
