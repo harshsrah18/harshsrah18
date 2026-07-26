@@ -8,3 +8,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsrah18&theme=tokyo-night&hide_border=true" />
+</p>
