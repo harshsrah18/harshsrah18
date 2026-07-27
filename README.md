@@ -29,6 +29,11 @@ My goal is to become a skilled Software Engineer while contributing to impactful
 
 <p>
 
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+
+
 
 - C Programming
 - C++ (OOP & DSA)
