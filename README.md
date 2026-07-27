@@ -28,31 +28,78 @@ My goal is to become a skilled Software Engineer while contributing to impactful
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+
+
+- C Programming
+- C++ (OOP & DSA)
+- Java
+- JavaScript (ES6+)
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Competitive Programming
 </p>
 
 ## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+ 
+
+- Responsive Web Design
+- React Component Development
+- Single Page Applications (SPA)
+- React Hooks & State Management
+- Tailwind CSS Styling
+- Modern JavaScript (ES6+)
+- API Integration using Axios & Fetch
+- Mobile-First Development
 </p>
 
 ## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+
+- RESTful API Development
+- Express.js Server Development
+- Node.js Backend Architecture
+- CRUD Operations
+- JWT Authentication
+- Middleware & Routing
+- File Upload with Multer
+- Error Handling & Validation
 </p>
 
 ## 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  
+
+- MongoDB & Mongoose
+- MySQL Database Design
+- CRUD Operations
+- Data Modeling
+- Database Relationships
+- Query Optimization
+- Aggregation Framework
 </p>
 
 ## 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  
+
+- Git Version Control
+- GitHub Collaboration
+- VS Code Development
+- Postman API Testing
+- npm Package Management
+- Debugging & Troubleshooting
+- Deployment Basics
 </p>
 
 ## 🎯 Current Focus
