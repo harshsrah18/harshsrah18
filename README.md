@@ -1,13 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Harsh%20Chinchkhede&fontSize=45&fontAlignY=40"/>
+# Hi 👋 I'm Harsh Chinchkhede
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
+### Full Stack Developer • MERN Stack Developer • React Developer
+
+Building modern, scalable web applications using React, Node.js, Express.js, MongoDB, JavaScript, and AI-powered technologies.
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=5B8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
-</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Bachelor of Engineering** student passionate about building modern web applications and solving real-world problems through software development.
+
+I enjoy developing scalable backend systems, creating responsive user interfaces, and continuously learning new technologies in Full Stack Development.
+
+My goal is to become a skilled Software Engineer while contributing to impactful products and open-source projects.
+
+
 
 
 ## 💻 Programming Languages
