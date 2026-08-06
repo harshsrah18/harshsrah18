@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Harsh Chinchkhede
+ Hi 👋 I'm Harsh Chinchkhede
 
 ### Full Stack Developer • MERN Stack Developer • React Developer
 
