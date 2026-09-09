@@ -2,7 +2,7 @@
 
 # 👋 I'm Harsh Chinchkhede
 
-### Full Stack Developer • MERN Stack Developer • React Developer
+### Full Stack Developer • MERN Stack Developer • Backend Developer
 
 Building modern, scalable web applications using React, Node.js, Express.js, MongoDB, JavaScript, and AI-powered technologies.
 
