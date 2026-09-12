@@ -34,7 +34,7 @@ My goal is to become a skilled Software Engineer while contributing to impactful
 - Shipped a full revenue path: Razorpay payment integration plus a credit-based access system.
 - Implemented Firebase Google OAuth and built the UI in React with Framer Motion, responsive on mobile and desktop.
 
-### Software Development Intern — CODETECH IT SOLUTION PVT. LTD.
+### Software Development Intern — CODTECH IT SOLUTIONS 
 `January 2025 – February 2025`
 
 - Architected 5+ responsive, cross-browser web components with HTML5, CSS3, and JavaScript, reducing layout render times by ~15%.
