@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # 👋 I'm Harsh Chinchkhede
 
 ### Full Stack Developer • MERN Stack Developer • Backend Developer
 
-Building modern, scalable web applications using React, Node.js, Express.js, MongoDB, JavaScript, and AI-powered technologies.
+Building modern, scalable web applications using React, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and AI-powered technologies.
 
 <br>
 
@@ -16,11 +17,13 @@ Building modern, scalable web applications using React, Node.js, Express.js, Mon
 
 ## 🚀 About Me
 
-I'm a **Bachelor of Engineering** student passionate about building modern web applications and solving real-world problems through software development.
+I build things that break, then fix them until they don't — that's how I actually learned to code.
 
-I enjoy developing scalable backend systems, creating responsive user interfaces, integrating AI into real products, and continuously learning new technologies in Full Stack Development.
+I'm a full-stack developer working across the **MERN stack** and **Next.js**, happiest in the parts most people skip: the API that has to survive a payment failing halfway through, the auth flow that has to work on a browser I've never tested on, the bug that only shows up in production.
 
-My goal is to become a skilled Software Engineer while contributing to impactful products and open-source projects.
+I build for small teams and early-stage products that need one person to take a feature from "wouldn't it be good if" all the way to live — interface, API, database, auth, deployment. I also practise DSA regularly in C++, which has changed how I start a problem: less typing first, more figuring out the right approach before I commit to it.
+
+Right now I'm looking for a full-stack or backend role where I can work on real products alongside more experienced engineers.
 
 ---
 
@@ -29,16 +32,19 @@ My goal is to become a skilled Software Engineer while contributing to impactful
 ### Full Stack Developer — AI-Powered Mock Interview Platform
 `August 2026 – Present`
 
-- Built the full stack solo — React.js, Node.js/Express REST API, MongoDB — and deployed to production on Render.
+- Built the full stack solo — React.js front end, Node.js/Express REST API, MongoDB database — and deployed to production on Render with environment-based configuration.
 - Engineered an AI resume-analysis pipeline that extracts skills/experience from an uploaded PDF and generates role-specific interview questions.
-- Shipped a full revenue path: Razorpay payment integration plus a credit-based access system.
-- Implemented Firebase Google OAuth and built the UI in React with Framer Motion, responsive on mobile and desktop.
+- Shipped a complete revenue path: Razorpay payment integration plus a credit-based access system metering usage per account.
+- Implemented Firebase Google OAuth for one-click sign-in and built the interface in React with Framer Motion, responsive across mobile and desktop.
 
-### Software Development Intern — CODTECH IT SOLUTIONS 
-`January 2025 – February 2025`
+### Software Development Intern — CODTECH IT SOLUTIONS
+`January 10, 2025 – February 25, 2025`
 
 - Architected 5+ responsive, cross-browser web components with HTML5, CSS3, and JavaScript, reducing layout render times by ~15%.
-- Delivered structured, maintainable, performance-focused web interfaces following modern frontend practices.
+- Built and shipped 12 responsive web pages using React, JavaScript, HTML, and CSS, verified across 4 browsers and 3 screen sizes.
+- Reduced page load time from 4.2s to 1.8s by compressing images, lazy-loading offscreen content, and removing unused CSS.
+- Built 8 reusable React components used across 5 pages, cutting build time for each new page.
+- Resolved 30+ UI bugs raised in QA and code review, and worked with a 4-person dev team through review and testing cycles.
 
 ---
 
@@ -47,17 +53,17 @@ My goal is to become a skilled Software Engineer while contributing to impactful
 ### 🤖 AI-Powered Interview Platform
 **React.js · Node.js · Express.js · MongoDB** — [Live Demo](https://ai-interview-agent-ue48.onrender.com)
 
-Full-stack AI interview platform that generates technical interview questions using OpenAI GPT-4o Mini via OpenRouter, with Firebase auth, Razorpay payments, a credit-based access system, and AI-evaluated answer feedback.
+Full-stack AI interview-prep SaaS that reads a user's resume and runs personalized technical and HR mock interviews, scoring each answer with AI feedback. Generates questions using OpenAI GPT-4o Mini via OpenRouter, with Firebase auth, Razorpay payments, and a credit-based access system. Live, deployed, and taking payments.
 
 ### 🔗 MicroURL — URL Shortener SaaS
 **Next.js · TypeScript · Node.js · Express.js · Redis**
 
-Full-stack URL shortener with a Next.js/TypeScript client and Express REST API. Implemented Base62 encoding from scratch for compact short codes, backed by Redis for single-digit millisecond lookups.
+Full-stack URL shortener with a Next.js/TypeScript client and Express REST API. Implemented Base62 encoding from scratch for compact short codes, backed by Redis as the key-value store for single-digit millisecond lookups.
 
 ### 💬 AI Customer Support Chatbot
-**Next.js · Node.js · MongoDB**
+**Next.js · Node.js · MongoDB** — `February 2026 – March 2026`
 
-AI chatbot that answers common customer queries automatically, escalating only what it can't resolve. Designed the REST API and MongoDB schema for conversation history.
+AI chatbot that answers common customer queries automatically, escalating only what it can't resolve. Designed the REST API and MongoDB schema handling conversation history.
 
 ---
 
@@ -73,6 +79,7 @@ AI chatbot that answers common customer queries automatically, escalating only w
 - C Programming
 - C++ (OOP & DSA)
 - JavaScript (ES6+) / TypeScript
+- SQL
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Problem Solving
@@ -115,6 +122,14 @@ AI chatbot that answers common customer queries automatically, escalating only w
 - MySQL Database Design
 - Data Modeling & Aggregation
 
+## 🧠 CS Fundamentals
+
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- DBMS
+- Operating Systems
+- Computer Networking
+
 ## 🤖 Artificial Intelligence
 
 - OpenAI GPT-4o Mini (via OpenRouter API)
@@ -131,6 +146,7 @@ AI chatbot that answers common customer queries automatically, escalating only w
 - Git & GitHub Collaboration
 - VS Code Development
 - Postman API Testing
+- Render Deployment
 - Debugging & Troubleshooting
 
 ---
@@ -140,7 +156,7 @@ AI chatbot that answers common customer queries automatically, escalating only w
 | Qualification | Institute | Duration | Performance |
 |---|---|---|---|
 | 🎓 B.E. Information Technology | Sinhgad Institute of Technology, Lonavala | 2022 – 2026 | **CGPA: 7.89 / 10** |
-| 📘 Higher Secondary (Class 12, Science) | Sree Narayana Vidyalaya English Medium Hs & Jr College Kanhan, Nagpur| 2019 – 2021 | **CGPA: 9.89 / 10**|
+| 📘 Higher Secondary (Class 12, Science) | Sree Narayana Vidyalaya English Medium Hs & Jr College Kanhan, Nagpur | 2019 – 2021 | **CGPA: 9.89 / 10** |
 
 ## 📜 Certifications
 
@@ -181,19 +197,19 @@ Open To:
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="left">
+<a href="https://www.linkedin.com/in/harshchinchkhede" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/harshsrah18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/HarshsraH/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshchinchkhede1.sit.it@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/harshchinchkhede">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/HarshsraH/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
 </p>
-
-</div>
-
