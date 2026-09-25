@@ -67,7 +67,7 @@ AI chatbot that answers common customer queries automatically, escalating only w
 
 ---
 
-## 💻 Programming Language
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="50"/>
