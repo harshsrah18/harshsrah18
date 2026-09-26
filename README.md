@@ -44,7 +44,7 @@ Right now I'm looking for a full-stack or backend role where I can work on real 
 - Built and shipped 12 responsive web pages using React, JavaScript, HTML, and CSS, verified across 4 browsers and 3 screen sizes.
 - Reduced page load time from 4.2s to 1.8s by compressing images, lazy-loading offscreen content, and removing unused CSS.
 - Built 8 reusable React components used across 5 pages, cutting build time for each new page.
-- Resolved 30+ UI bugs raised in QA and code review, and worked with a 4-person dev team through review and testing cycles.
+- Resolved 30+ UI bugs raised in QA and code review, and worked with a 4-person dev team through review and testing cycle.
 
 ---
 
