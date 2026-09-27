@@ -158,7 +158,7 @@ AI chatbot that answers common customer queries automatically, escalating only w
 | 🎓 B.E. Information Technology | Sinhgad Institute of Technology, Lonavala | 2022 – 2026 | **CGPA: 7.89 / 10** |
 | 📘 Higher Secondary (Class 12, Science) | Sree Narayana Vidyalaya English Medium Hs & Jr College Kanhan, Nagpur | 2019 – 2021 | **CGPA: 9.89 / 10** |
 
-## 📜 Certifications
+## 📜 Certification
 
 - From Novice to Expert: Mastering C++ Programming
 - Introduction to Artificial Intelligence
