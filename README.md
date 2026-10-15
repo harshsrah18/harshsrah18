@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 I'm Harsh Chinchkhede
@@ -23,7 +22,9 @@ I'm a full-stack developer working across the **MERN stack** and **Next.js**, ha
 
 I build for small teams and early-stage products that need one person to take a feature from "wouldn't it be good if" all the way to live — interface, API, database, auth, deployment. I also practise DSA regularly in C++, which has changed how I start a problem: less typing first, more figuring out the right approach before I commit to it.
 
-Right now I'm looking for a full-stack or backend role where I can work on real products alongside more experienced engineers.
+Right now I'm looking for a full-stack or backend role where I can work on real products alongside more experienced engineers. If you're hiring, or building something and want another pair of hands, message me — I reply to everything.
+
+📍 Pune, Maharashtra, India
 
 ---
 
@@ -33,9 +34,17 @@ Right now I'm looking for a full-stack or backend role where I can work on real 
 `August 2026 – Present`
 
 - Built the full stack solo — React.js front end, Node.js/Express REST API, MongoDB database — and deployed to production on Render with environment-based configuration.
-- Engineered an AI resume-analysis pipeline that extracts skills/experience from an uploaded PDF and generates role-specific interview questions.
+- Engineered an AI resume-analysis pipeline that extracts skills/experience from an uploaded PDF and generates role-specific interview questions, replacing manual entry with a single upload.
 - Shipped a complete revenue path: Razorpay payment integration plus a credit-based access system metering usage per account.
 - Implemented Firebase Google OAuth for one-click sign-in and built the interface in React with Framer Motion, responsive across mobile and desktop.
+
+### Training and Placement Coordinator — Sinhgad Institute of Technology, Lonavala
+`June 2025 – June 2026`
+
+- Coordinated campus placement drives, training sessions, and recruitment activities for students, working directly with companies and recruiters.
+- Supported students through the placement process: registration, communication, scheduling, and interview coordination.
+- Organized placement-related events, workshops, and career development activities.
+- Maintained placement records and kept communication smooth between students, faculty, and recruiters.
 
 ### Software Development Intern — CODTECH IT SOLUTIONS
 `January 10, 2025 – February 25, 2025`
@@ -44,7 +53,7 @@ Right now I'm looking for a full-stack or backend role where I can work on real 
 - Built and shipped 12 responsive web pages using React, JavaScript, HTML, and CSS, verified across 4 browsers and 3 screen sizes.
 - Reduced page load time from 4.2s to 1.8s by compressing images, lazy-loading offscreen content, and removing unused CSS.
 - Built 8 reusable React components used across 5 pages, cutting build time for each new page.
-- Resolved 30+ UI bugs raised in QA and code review, and worked with a 4-person dev team through review and testing cycle.
+- Resolved 30+ UI bugs raised in QA and code review, and worked with a 4-person dev team through review and testing cycles.
 
 ---
 
@@ -58,7 +67,7 @@ Full-stack AI interview-prep SaaS that reads a user's resume and runs personaliz
 ### 🔗 MicroURL — URL Shortener SaaS
 **Next.js · TypeScript · Node.js · Express.js · Redis**
 
-Full-stack URL shortener with a Next.js/TypeScript client and Express REST API. Implemented Base62 encoding from scratch for compact short codes, backed by Redis as the key-value store for single-digit millisecond lookups.
+Full-stack URL shortener with a Next.js/TypeScript client and Express REST API. Implemented Base62 encoding from scratch to turn incrementing IDs into compact, URL-safe short codes, backed by Redis as the key-value store for single-digit millisecond lookups locally.
 
 ### 💬 AI Customer Support Chatbot
 **Next.js · Node.js · MongoDB** — `February 2026 – March 2026`
@@ -67,87 +76,55 @@ AI chatbot that answers common customer queries automatically, escalating only w
 
 ---
 
-## 💻 Programming Languages
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c" height="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" height="50"/>
 </p>
 
-- C Programming
-- C++ (OOP & DSA)
-- JavaScript (ES6+) / TypeScript
-- SQL
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Problem Solving
+C • C++ (OOP & DSA) • JavaScript (ES6+) • TypeScript • SQL
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="50"/>
 </p>
 
-- Responsive Web Design
-- React Component Development
-- Next.js
-- React Hooks & State Management
-- Tailwind CSS Styling
-- API Integration using Axios & Fetch
+Responsive Web Design • React Components & Hooks • Next.js • Tailwind CSS • Framer Motion • API Integration (Axios & Fetch)
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
 </p>
 
-- RESTful API Development
-- Express.js Server Development
-- Firebase Google OAuth
-- Razorpay Payment Integration
-- Credit-Based Access Systems
-- Middleware & Routing
-- Error Handling & Validation
+RESTful API Development • Express.js • Middleware & Routing • Firebase Google OAuth • Razorpay Payment Integration • Credit-Based Access Systems • Error Handling & Validation
 
-## 🗄️ Database & Caching
+### 🗄️ Databases & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="50"/>
 </p>
 
-- MongoDB & Mongoose
-- Redis (key-value store, sub-10ms lookups)
-- MySQL Database Design
-- Data Modeling & Aggregation
+MongoDB & Mongoose • Redis (key-value store, single-digit ms lookups) • MySQL • Data Modeling & Aggregation
 
-## 🧠 CS Fundamentals
+### 🤖 Artificial Intelligence
 
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- DBMS
-- Operating Systems
-- Computer Networking
+OpenAI GPT-4o Mini (via OpenRouter) • Prompt Engineering for structured question generation • AI resume-parsing pipelines (PDF → skills/experience) • AI-generated answer evaluation & feedback
 
-## 🤖 Artificial Intelligence
+### 🧠 CS Fundamentals
 
-- OpenAI GPT-4o Mini (via OpenRouter API)
-- Prompt Engineering for structured question generation
-- AI resume-parsing pipelines (PDF → skills/experience extraction)
-- AI-generated answer evaluation & feedback
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks
 
-## 🛠 Tools
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50"/>
 </p>
 
-- Git & GitHub Collaboration
-- VS Code Development
-- Postman API Testing
-- Render Deployment
-- Debugging & Troubleshooting
+Git & GitHub • VS Code • Postman • Render Deployment • Debugging & Troubleshooting
 
 ---
 
@@ -156,15 +133,17 @@ AI chatbot that answers common customer queries automatically, escalating only w
 | Qualification | Institute | Duration | Performance |
 |---|---|---|---|
 | 🎓 B.E. Information Technology | Sinhgad Institute of Technology, Lonavala | 2022 – 2026 | **CGPA: 7.89 / 10** |
-| 📘 Higher Secondary (Class 12, Science) | Sree Narayana Vidyalaya English Medium Hs & Jr College Kanhan, Nagpur | 2019 – 2021 | **CGPA: 9.89 / 10** |
+| 📘 Higher Secondary (Class 12, Science) | Sree Narayana Vidyalaya English Medium Hs & Jr College, Kanhan, Nagpur | 2019 – 2021 | **CGPA: 9.89 / 10** |
 
 ## 📜 Certifications
 
 - From Novice to Expert: Mastering C++ Programming
+- SQL and Relational Databases 101
 - Introduction to Artificial Intelligence
 - Ethics in the Age of Generative AI
-- SQL and Relational Databases 101
 - Learning Microsoft 365 Copilot for Work
+- GitHub Copilot for Software Developers (Microsoft Press)
+- AWS Certified Cloud Practitioner (CLF-C01) Cert Prep — Cloud Concepts; Billing and Pricing
 
 ---
 
@@ -182,10 +161,10 @@ Building:
 
 Exploring:
   - Docker
-  - Cloud Deployment
+  - Cloud Deployment (AWS fundamentals)
 
 Open To:
-  - Internship / Full-Time Roles
+  - Full-Time Roles / Internships
   - Open Source
 ```
 
