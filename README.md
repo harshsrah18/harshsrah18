@@ -24,8 +24,6 @@ I build for small teams and early-stage products that need one person to take a 
 
 Right now I'm looking for a full-stack or backend role where I can work on real products alongside more experienced engineers. If you're hiring, or building something and want another pair of hands, message me — I reply to everything.
 
-📍 Pune, Maharashtra, India
-
 ---
 
 ## 💼 Experience
